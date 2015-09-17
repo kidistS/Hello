@@ -6,5 +6,7 @@ My first repo on GitHub
 # http://php-osx.liip.ch 
 # commnd line used: curl -s http://php-osx.liip.ch/install.sh | bash -s 5.6 */
 
-Step_2
+# Step_2: 
+# Setting up local web server on OS X
+# https://discussions.apple.com/docs/DOC-3083 
 
