@@ -10,5 +10,6 @@ curl -s http://php-osx.liip.ch/install.sh | bash -s 5.6 */
  https://discussions.apple.com/docs/DOC-3083 
 
 # Usefull links
-http://coolestguidesontheplanet.com/get-apache-mysql-php-phpmyadmin-working-osx-10-10-yosemite/
+- http://coolestguidesontheplanet.com/get-apache-mysql-php-phpmyadmin-working-osx-10-10-yosemite/
+- https://clburlison.com/munkirepo-guide-part-1/
 
