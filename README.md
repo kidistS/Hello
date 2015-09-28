@@ -9,7 +9,7 @@ curl -s http://php-osx.liip.ch/install.sh | bash -s 5.6 */
 # Step_2: Setting up local web server on OS X
  https://discussions.apple.com/docs/DOC-3083 
 
-# Usefull links
+# Usefull PHP, MySQL, Apache, & Munki related links
 - http://coolestguidesontheplanet.com/get-apache-mysql-php-phpmyadmin-working-osx-10-10-yosemite/
 - https://clburlison.com/munkirepo-guide-part-1/
 - http://www.itzgeek.com/how-tos/linux/fedora-how-tos/how-to-install-nginx-with-php-fpm-and-mysql-on-fedora-16-verne.html
