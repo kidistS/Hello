@@ -1,8 +1,8 @@
-Usefull link:
+#Usefull link:
 - https://www.digitalocean.com/community/tutorials/how-to-create-and-manage-databases-in-mysql-and-mariadb-on-a-cloud-server
 - https://www.tjhsst.edu/~dhyatt/mysql/mysqlupdate.html
 
-MySQL installation and related problems wit solution
+#MySQL installation and related problems wit solution
 1. Installation of MySQL packages
 	sudo dnf install mysql mysql-server mysql-libs mysql-server
 2. Start up the service
@@ -51,7 +51,7 @@ MySQL installation and related problems wit solution
 - Updating specific attribute value of the table
 	mysql> update machine set machine_name='iMac' where id = 1;
 
-Problems:
+#Problems:
 1. I am getting the following error when I try to connect to mysql:
  sudo mysql -h localhost -u kidistsg -p
 “Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)”
